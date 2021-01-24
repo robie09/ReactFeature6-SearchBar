@@ -2,6 +2,7 @@
 import { GlobalStyle, ThemeButton } from "./styles";
 
 import Home from "./components/Home";
+
 // Components
 import ProductList from "./components/ProductList";
 import { ThemeProvider } from "styled-components";
